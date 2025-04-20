@@ -10,37 +10,26 @@ Tenho um grande interesse por programação, desenvolvimento de software e intel
 
 ---
 
-<h2 align="center">📱 Conecte-se comigo</h2>
+<div align="left">
+  <a href="https://wa.me/5562985230035" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/.gabriel_cunha?igsh=MXYyOTRhMTkzMm13aA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1234567890" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-cunha-268575309/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-cunha-268575309" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="Conecte-se comigo no LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1487ef"
-    />
-  </a>
-  <a href="https://github.com/Gabs19X?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/Gabs19X?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/Gabs19X?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/Gabs19X?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
+###
 
 ---
 
-<h2 align="center">🤖 Linguagens e Tecnologias</h2>
-
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS"/>
@@ -54,10 +43,6 @@ Tenho um grande interesse por programação, desenvolvimento de software e intel
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabs19X&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs19X&layout=compact&langs_count=5&theme=dracula" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabs19X&theme=dracula&hide_border=false" />
 </p>
 
 ---
