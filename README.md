@@ -7,11 +7,12 @@ Olá! Sou Gabriel Cunha Flausino, tenho 18 anos e sou apaixonado por tecnologia 
 Tenho um grande interesse por programação, desenvolvimento de software e inteligência artificial, e estou sempre explorando novas ferramentas e linguagens para expandir minhas habilidades. Além da faculdade, participo de eventos tech e trabalho em pequenos projetos pessoais para colocar em prática o que aprendo.
 
 <p align="left">
-  <a href="www.linkedin.com/in/gabriel-cunha-268575309" target="_blank">
+  <p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-cunha-268575309" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
-      src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/stars/Gabs19X?color=64aaea&style=for-the-badge&labelColor=1487ef&logo=linkedinda&label=linkedin"
     />
   </a>
     <a href="https://github.com/Gabs19X?tab=repositories&sort=stargazers">
